@@ -21,3 +21,4 @@ jupyter
 
 **Notlar**
 - Yahoo Finance bağlantıları zaman zaman engellenebilir; alternatif veri kaynakları veya önbellek mekanizmaları eklemeyi düşünebilirsiniz.
+<img width="3600" height="1800" alt="bitcoin_fiyat_ve_hareketli_ortalamalar" src="https://github.com/user-attachments/assets/15cb5db0-9b19-4c7c-bb9f-b50468be06ad" />
